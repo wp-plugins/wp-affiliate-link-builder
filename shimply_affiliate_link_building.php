@@ -636,7 +636,7 @@ global $wpdb;
 
 				</script>
 	<div class="wrap">
-        <div style="display:table-cell;vertical-align: top;"><a href="http://www.shimply.com/" target="_blank"><img src="/wp-content/plugins/internal-link-building-plugin/logo.png" width="100px"/></a></div><div style="padding-top:8px;display:table-cell;">This plugin is supported by <a href="http://www.shimply.com/" target="_blank">Shimply</a></div>
+        <div style="display:table-cell;vertical-align: top;"><a href="http://www.shimply.com/" target="_blank"><img src="/wp-content/plugins/wp-affiliate-link-builder/logo.png" width="100px"/></a></div><div style="padding-top:8px;display:table-cell;">This plugin is supported by <a href="http://www.shimply.com/" target="_blank">Shimply</a></div>
 		<form method="post">
 		<h2>Keyword Linking Configuration</h2>
 			<div id="advancedstuff" class="dbx-group" >
@@ -689,7 +689,7 @@ global $wpdb;
 			</div>
 
 		<input type="hidden" name="action" value="saveconfiguration">
-		<input type="submit" value="Save" style="width:100%;" >
+		<input type="submit" value="Save" style="padding: 10px 20px;font-weight: bold;background-color: #e3e3e3;" >
 	</form>
 
 	<form method="post">
