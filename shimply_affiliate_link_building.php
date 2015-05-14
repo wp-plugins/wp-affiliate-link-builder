@@ -689,7 +689,7 @@ global $wpdb;
 			</div>
 
 		<input type="hidden" name="action" value="saveconfiguration">
-		<input type="submit" value="Save" style="padding: 10px 20px;font-weight: bold;background-color: #e3e3e3;" >
+		<input type="submit" value="Save" style="/* width:100%; */padding: 10px 20px;/* font-weight: bold; */background-color: #FF7E00;border: #ff7e00;color: #fff;font-size: 16px;" >
 	</form>
 
 	<form method="post">
@@ -720,7 +720,7 @@ global $wpdb;
 
 
 		<input type="hidden" name="action" value="import">
-		<input type="submit" value="Import CSV" style="width:100%;" >
+		<input type="submit" value="Import CSV" style="/* width:100%; */padding: 10px 20px;/* font-weight: bold; */background-color: #FF7E00;border: #ff7e00;color: #fff;font-size: 16px;" >
 	</form>
 <?php
 /*
