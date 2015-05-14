@@ -1,6 +1,6 @@
 ===  Affiliate Link Building ===
 Contributors: Shimply.com
-Tags: Affiliate link building, internal link building, affiliate program india, shimply.com, affiliate programs india, widget, plugin, affiliate plugin, search engine optimization, seo plugin, seo widget
+Tags: Affiliate link building, internal link building, affiliate program india, shimply.com, affiliate programs india, widget, plugin, affiliate plugin, search engine optimization, seo plugin, seo widget,  auto links,  auto smart links,  related posts, keyword links, hyperlink, internal links, Pay per Click, keyword,  track affiliates, affiliate tool, thirsty affiliates, manage affiliate links
 Requires at least: 3.0.1
 Tested up to: 3.8
 Stable tag: 1.1
