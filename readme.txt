@@ -57,6 +57,7 @@ It’s in a box below the main content area in /wp-admin/post.php (or post-new.p
 Type the different keywords or URLs out with a pipe symbol ( | ) in between them. It’s found just above the enter key on most qwerty keyboards; you press shift+| to make it appear (without shift you’ll get a backslash: \ ) .
 
 == Screenshots ==
+screenshot-1.jpg
 
 1. Admin Panel
 
