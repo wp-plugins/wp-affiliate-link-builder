@@ -11,7 +11,7 @@ This plugin will let you easily build internal links and affiliate links to your
 
 == Description ==
 
-This plugin enables admin to build links within their post by simply entering the keyword and URL. For Admins, who want to add internal links or link to a particular post/product, going back to each of their posts and inserting links takes a lot of time. This plugin will make their life easier.
+This plugin enables you to build links within their post by simply entering the keyword and URL. For Admins, who want to add internal links or link to a particular post/product, going back to each of their posts and inserting links takes a lot of time. This plugin will make your life easier.
 
 Plugin allows finer control options for admins like do not insert links before n words or, only insert x links (i.e. if 1 keyword is used 5 times in post, it will only link x times) to make sure post quality is not compromised.
 
